@@ -21,7 +21,7 @@ def monopoly_with_second_tier
       rent_in_dollars: {}
     }
   }
-	
+
 end
 
 def monopoly_with_third_tier
@@ -63,7 +63,7 @@ def monopoly_with_fourth_tier
     }
   }
   # binding.pry
-	
+
 end
 
 # monopoly_with_fourth_tier
